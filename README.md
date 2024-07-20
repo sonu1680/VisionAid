@@ -91,13 +91,27 @@ Audio Guidance: The device provides real-time audio feedback such as "Clear path
 Navigation: David follows the audio instructions to navigate safely to the park.
 Outcome: David navigates safely to the park, avoiding obstacles and ensuring a clear pathway.
 
+Recognized face Identification:
 ![Screenshot 2024-07-20 110036](https://github.com/user-attachments/assets/dbaf41c2-894a-402b-8d82-9c397258376c)
 
+
+Unrecognized face Identification:
 ![Screenshot 2024-07-20 110156](https://github.com/user-attachments/assets/3990bc8d-7e4d-4952-8a5f-acdcaf3f6b3a)
 
+
+Object Classification:
 ![Screenshot 2024-07-20 110210](https://github.com/user-attachments/assets/8c802887-c1e2-4826-93cb-a2e7984d2e13)
 
-![Screenshot 2024-07-20 125134](https://github.com/user-attachments/assets/1d2a72a8-7707-40c0-b913-63a88291053a)
+
+Raspiberry (for computer vision processing):
+Screenshot 2024-07-20 125134](https://github.com/user-attachments/assets/1d2a72a8-7707-40c0-b913-63a88291053a)
+
+Prototype of our project VISIONAID:
+![![WhatsApp Image 2024-07-20 at 12 44 56 PM (3)](https://github.com/user-attachments/assets/9e2e99e5-9a23-4fe5-b3b9-09c4f54d911d)
+
+
+
+
 
 For further inquiries or collaboration, please contact:
 
