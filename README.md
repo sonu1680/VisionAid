@@ -12,31 +12,7 @@ VisionAid is an innovative project aimed at assisting visually impaired individu
 Team Details
 Team Name: NCoderX
 
-Team Leader: Sonu Kumar Pandit
-Email: 2203031080198@paruluniversity.ac.in
-Institute: Parul Institute of Engineering & Technology (PIET)
 
-Team Members
-Sonu Kumar Pandit
-
-Branch: B.Tech
-Stream: IT
-Year: III
-Wakeel Kushwaha
-
-Branch: B.Tech
-Stream: IT
-Year: III
-Rahul Kumar
-
-Branch: B.Tech
-Stream: CSE
-Year: III
-Suraj Gupta
-
-Branch: B.Tech
-Stream: CSE
-Year: II
 Problem Statement
 Title: VisionAid: A Computer Vision Solution for the Visually Impaired
 
